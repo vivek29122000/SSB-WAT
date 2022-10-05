@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SSB WAT</string>
+    <string name="desc_test">• YOU WILL BE SHOWN <font color="red">60</font> WORDS.\n
+\n• A WORD WILL BE SHOWN FOR <font color="red">15 SECS</font> AND YOU HAVE TO WRITE THE <font color="red">1ST IDEA/THOUGHT/EMOTION</font> WHICH COMES TO YOUR MIND AFTER SEEING THE WORD IN THE FORM OF A SENTENCE.\n
+\n• YOU <font color="red">MAY OR MAY NOT USE THE WORD</font> BUT THE SENTENCE SHOULD BE WORD RELATED.\n
+\n• AFTER 15 SECS AUTOMATICALLY THE NEXT WORD WILL COME TILL 60 WORDS.\n
+\n• EACH WORD WILL REMAIN FLASHED FOR 15 SECS.\n
+\n• AFTER 20th AND 40th WORD THERE WILL BE A BLANK SLIDE TO ENABLE YOU TO TURN OVER THE PAGE AND CHECK THE SEQUENCE.</string>
+    <string name="desc_title"><u>WAT BRIEFING</u></string>
+</resources>
